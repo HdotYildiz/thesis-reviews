@@ -1,0 +1,25 @@
+Amazon:
+    Digital camera section: 33145
+    Cell Phones: 2874
+    Printer: 3470
+    Laptops, Computer Components: 41044
+    
+    Total: 80448 (after filtering empty ratings)
+    
+    Books: 3233926
+    
+BestBuy new:
+    Digital camera section: 5865
+    Cell Phones: 8619
+    Printer: 5368
+    Laptops, Computer Components: 10819 + 4070
+    
+    Total: 34741
+    
+Walmart:
+    Digital camera section: 3930 
+    Cell Phones: 4294
+    Printer: 20331
+    Laptops, Computer Components: 11995 + 814
+    
+    Total: 41364
