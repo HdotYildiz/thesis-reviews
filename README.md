@@ -12,8 +12,14 @@ DC: Digital camera's
 LP: Printers
 CP: Cellphones
 
-The Amazon dataset before feature extraction can be found at: http://jmcauley.ucsd.edu/data/amazon/
+VG: Video games
+BU: Beauty products
+B: Books
+s: Search products
+e: Experience products
+
+The Amazon datasets before feature extraction can be found at: http://jmcauley.ucsd.edu/data/amazon/
 
 The processed Books dataset have to be directly sent by the repository owner since the file (3.1GB) is too large for git. 
 
-The datasets in final can be split on "set" for product types.
+The datasets in 'Processed' can be split on "set" for product types.
